@@ -1,0 +1,3 @@
+/home/erika/Documents/PP/lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/erika/Documents/PP/lab8/cmake-build-debug/CMakeFiles/lab8.dir
+/home/erika/Documents/PP/lab8/cmake-build-debug/CMakeFiles/edit_cache.dir

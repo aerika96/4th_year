@@ -1,0 +1,3 @@
+/home/erika/Documents/PP/project_openmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/erika/Documents/PP/project_openmp/cmake-build-debug/CMakeFiles/project_openmp.dir
+/home/erika/Documents/PP/project_openmp/cmake-build-debug/CMakeFiles/edit_cache.dir
